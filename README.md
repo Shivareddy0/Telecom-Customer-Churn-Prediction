@@ -95,4 +95,5 @@ Customers experiencing poor connectivity are more likely to leave.
 ---
 
 ## 👨‍💻 Author
-
+- **NAME**-**SHIVA REDDY**
+- **EMAIL**-**devarashivareddy77@gmail.com**
